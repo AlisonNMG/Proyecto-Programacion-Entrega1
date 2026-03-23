@@ -1,6 +1,0 @@
-CC;7363435;Roberto;Garcia
-CC;4518714;Jose;Perez
-CC;7482449;Roberto;Garcia
-CC;4353408;Antonia;Rodriguez
-CC;1945623;Juancho;Lopez
-CC;9859074;Antonia;Garcia
