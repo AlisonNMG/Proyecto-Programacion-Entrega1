@@ -1,0 +1,6 @@
+1;Laptop;100
+2;Mouse;200
+3;Keyboard;300
+4;Monitor;400
+5;Webcam;500
+6;Printer;600
